@@ -1,0 +1,409 @@
+=== Direct Visual Odometry ===
+Prensesim için hazırlandı 👑
+
+Found 2250 images
+Processing (verbose output disabled for speed)...
+Progress: 0.0% (0/2250) - 0.0 fps
+Warning: Frame 13 tracking failed!
+
+Warning: Frame 17 tracking failed!
+
+Warning: Frame 21 tracking failed!
+
+Warning: Frame 24 tracking failed!
+
+Warning: Frame 27 tracking failed!
+
+Warning: Frame 29 tracking failed!
+
+Warning: Frame 31 tracking failed!
+
+Warning: Frame 33 tracking failed!
+
+Warning: Frame 36 tracking failed!
+
+Warning: Frame 38 tracking failed!
+
+Warning: Frame 40 tracking failed!
+
+Warning: Frame 42 tracking failed!
+
+Warning: Frame 44 tracking failed!
+
+Warning: Frame 46 tracking failed!
+
+Warning: Frame 48 tracking failed!
+Progress: 2.2% (50/2250) - 5.0 fps
+Warning: Frame 50 tracking failed!
+
+Warning: Frame 52 tracking failed!
+
+Warning: Frame 54 tracking failed!
+
+Warning: Frame 56 tracking failed!
+
+Warning: Frame 58 tracking failed!
+
+Warning: Frame 60 tracking failed!
+
+Warning: Frame 67 tracking failed!
+
+Warning: Frame 70 tracking failed!
+
+Warning: Frame 72 tracking failed!
+
+Warning: Frame 74 tracking failed!
+
+Warning: Frame 76 tracking failed!
+
+Warning: Frame 78 tracking failed!
+
+Warning: Frame 80 tracking failed!
+
+Warning: Frame 83 tracking failed!
+
+Warning: Frame 86 tracking failed!
+
+Warning: Frame 89 tracking failed!
+
+Warning: Frame 92 tracking failed!
+
+Warning: Frame 94 tracking failed!
+
+Warning: Frame 97 tracking failed!
+Progress: 4.4% (100/2250) - 4.3 fps
+Warning: Frame 100 tracking failed!
+
+Warning: Frame 102 tracking failed!
+
+Warning: Frame 104 tracking failed!
+
+Warning: Frame 106 tracking failed!
+
+Warning: Frame 109 tracking failed!
+
+Warning: Frame 112 tracking failed!
+
+Warning: Frame 114 tracking failed!
+
+Warning: Frame 116 tracking failed!
+
+Warning: Frame 127 tracking failed!
+
+Warning: Frame 133 tracking failed!
+
+Warning: Frame 136 tracking failed!
+
+Warning: Frame 140 tracking failed!
+
+Warning: Frame 143 tracking failed!
+
+Warning: Frame 146 tracking failed!
+
+Warning: Frame 149 tracking failed!
+Progress: 6.7% (150/2250) - 4.3 fps
+Warning: Frame 153 tracking failed!
+
+Warning: Frame 156 tracking failed!
+
+Warning: Frame 159 tracking failed!
+
+Warning: Frame 163 tracking failed!
+
+Warning: Frame 165 tracking failed!
+
+Warning: Frame 167 tracking failed!
+
+Warning: Frame 169 tracking failed!
+
+Warning: Frame 171 tracking failed!
+
+Warning: Frame 173 tracking failed!
+
+Warning: Frame 175 tracking failed!
+
+Warning: Frame 177 tracking failed!
+
+Warning: Frame 179 tracking failed!
+
+Warning: Frame 181 tracking failed!
+
+Warning: Frame 183 tracking failed!
+
+Warning: Frame 185 tracking failed!
+
+Warning: Frame 187 tracking failed!
+
+Warning: Frame 189 tracking failed!
+
+Warning: Frame 191 tracking failed!
+
+Warning: Frame 193 tracking failed!
+
+Warning: Frame 195 tracking failed!
+
+Warning: Frame 197 tracking failed!
+
+Warning: Frame 199 tracking failed!
+Progress: 8.9% (200/2250) - 4.4 fps
+Warning: Frame 201 tracking failed!
+
+Warning: Frame 203 tracking failed!
+
+Warning: Frame 205 tracking failed!
+
+Warning: Frame 207 tracking failed!
+
+Warning: Frame 209 tracking failed!
+
+Warning: Frame 211 tracking failed!
+
+Warning: Frame 213 tracking failed!
+
+Warning: Frame 215 tracking failed!
+
+Warning: Frame 217 tracking failed!
+
+Warning: Frame 219 tracking failed!
+
+Warning: Frame 221 tracking failed!
+
+Warning: Frame 223 tracking failed!
+
+Warning: Frame 225 tracking failed!
+
+Warning: Frame 227 tracking failed!
+
+Warning: Frame 229 tracking failed!
+
+Warning: Frame 231 tracking failed!
+
+Warning: Frame 233 tracking failed!
+
+Warning: Frame 235 tracking failed!
+
+Warning: Frame 237 tracking failed!
+
+Warning: Frame 239 tracking failed!
+
+Warning: Frame 241 tracking failed!
+
+Warning: Frame 243 tracking failed!
+
+Warning: Frame 245 tracking failed!
+
+Warning: Frame 247 tracking failed!
+
+Warning: Frame 249 tracking failed!
+Progress: 11.1% (250/2250) - 4.4 fps
+Warning: Frame 251 tracking failed!
+
+Warning: Frame 253 tracking failed!
+
+Warning: Frame 255 tracking failed!
+
+Warning: Frame 257 tracking failed!
+
+Warning: Frame 259 tracking failed!
+
+Warning: Frame 261 tracking failed!
+
+Warning: Frame 263 tracking failed!
+
+Warning: Frame 265 tracking failed!
+
+Warning: Frame 267 tracking failed!
+
+Warning: Frame 269 tracking failed!
+
+Warning: Frame 271 tracking failed!
+
+Warning: Frame 273 tracking failed!
+
+Warning: Frame 275 tracking failed!
+
+Warning: Frame 277 tracking failed!
+
+Warning: Frame 279 tracking failed!
+
+Warning: Frame 281 tracking failed!
+
+Warning: Frame 283 tracking failed!
+
+Warning: Frame 285 tracking failed!
+
+Warning: Frame 287 tracking failed!
+
+Warning: Frame 289 tracking failed!
+
+Warning: Frame 291 tracking failed!
+
+Warning: Frame 293 tracking failed!
+
+Warning: Frame 295 tracking failed!
+
+Warning: Frame 297 tracking failed!
+
+Warning: Frame 299 tracking failed!
+Progress: 13.3% (300/2250) - 4.5 fps
+Warning: Frame 301 tracking failed!
+
+Warning: Frame 303 tracking failed!
+
+Warning: Frame 305 tracking failed!
+
+Warning: Frame 307 tracking failed!
+
+Warning: Frame 309 tracking failed!
+
+Warning: Frame 311 tracking failed!
+
+Warning: Frame 313 tracking failed!
+
+Warning: Frame 315 tracking failed!
+
+Warning: Frame 317 tracking failed!
+
+Warning: Frame 319 tracking failed!
+
+Warning: Frame 321 tracking failed!
+
+Warning: Frame 323 tracking failed!
+
+Warning: Frame 325 tracking failed!
+
+Warning: Frame 327 tracking failed!
+
+Warning: Frame 329 tracking failed!
+
+Warning: Frame 331 tracking failed!
+
+Warning: Frame 333 tracking failed!
+
+Warning: Frame 335 tracking failed!
+
+Warning: Frame 337 tracking failed!
+
+Warning: Frame 339 tracking failed!
+
+Warning: Frame 341 tracking failed!
+
+Warning: Frame 343 tracking failed!
+
+Warning: Frame 345 tracking failed!
+
+Warning: Frame 347 tracking failed!
+
+Warning: Frame 349 tracking failed!
+Progress: 15.6% (350/2250) - 4.6 fps
+Warning: Frame 351 tracking failed!
+
+Warning: Frame 353 tracking failed!
+
+Warning: Frame 355 tracking failed!
+
+Warning: Frame 357 tracking failed!
+
+Warning: Frame 359 tracking failed!
+
+Warning: Frame 361 tracking failed!
+
+Warning: Frame 363 tracking failed!
+
+Warning: Frame 365 tracking failed!
+
+Warning: Frame 367 tracking failed!
+
+Warning: Frame 369 tracking failed!
+
+Warning: Frame 371 tracking failed!
+
+Warning: Frame 373 tracking failed!
+
+Warning: Frame 375 tracking failed!
+
+Warning: Frame 377 tracking failed!
+
+Warning: Frame 379 tracking failed!
+
+Warning: Frame 381 tracking failed!
+
+Warning: Frame 383 tracking failed!
+
+Warning: Frame 385 tracking failed!
+
+Warning: Frame 387 tracking failed!
+
+Warning: Frame 389 tracking failed!
+
+Warning: Frame 391 tracking failed!
+
+Warning: Frame 393 tracking failed!
+
+Warning: Frame 395 tracking failed!
+
+Warning: Frame 397 tracking failed!
+
+Warning: Frame 399 tracking failed!
+Progress: 17.8% (400/2250) - 4.5 fps
+Warning: Frame 401 tracking failed!
+
+Warning: Frame 403 tracking failed!
+
+Warning: Frame 405 tracking failed!
+
+Warning: Frame 407 tracking failed!
+
+Warning: Frame 409 tracking failed!
+
+Warning: Frame 411 tracking failed!
+
+Warning: Frame 413 tracking failed!
+
+Warning: Frame 415 tracking failed!
+
+Warning: Frame 417 tracking failed!
+
+Warning: Frame 419 tracking failed!
+
+Warning: Frame 421 tracking failed!
+
+Warning: Frame 423 tracking failed!
+
+Warning: Frame 425 tracking failed!
+
+Warning: Frame 427 tracking failed!
+
+Warning: Frame 429 tracking failed!
+
+Warning: Frame 431 tracking failed!
+
+Warning: Frame 433 tracking failed!
+
+Warning: Frame 435 tracking failed!
+
+Warning: Frame 437 tracking failed!
+
+Warning: Frame 439 tracking failed!
+
+Warning: Frame 441 tracking failed!
+
+Warning: Frame 443 tracking failed!
+
+Warning: Frame 445 tracking failed!
+
+Warning: Frame 447 tracking failed!
+
+Warning: Frame 449 tracking failed!
+Progress: 20.0% (450/2250) - 4.6 fps
+Warning: Frame 451 tracking failed!
+
+Warning: Frame 453 tracking failed!
+
+Warning: Frame 455 tracking failed!
+
+Warning: Frame 457 tracking failed!
+
+Warning: Frame 459 tracking failed!
+
+Warning: Frame 461 tracking failed!

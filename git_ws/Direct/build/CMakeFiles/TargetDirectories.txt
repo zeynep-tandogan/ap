@@ -1,0 +1,8 @@
+/home/zeynox/git_ws/Direct/build/CMakeFiles/direct_vo.dir
+/home/zeynox/git_ws/Direct/build/CMakeFiles/run_vo.dir
+/home/zeynox/git_ws/Direct/build/CMakeFiles/edit_cache.dir
+/home/zeynox/git_ws/Direct/build/CMakeFiles/rebuild_cache.dir
+/home/zeynox/git_ws/Direct/build/CMakeFiles/list_install_components.dir
+/home/zeynox/git_ws/Direct/build/CMakeFiles/install.dir
+/home/zeynox/git_ws/Direct/build/CMakeFiles/install/local.dir
+/home/zeynox/git_ws/Direct/build/CMakeFiles/install/strip.dir
